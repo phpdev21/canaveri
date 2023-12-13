@@ -1,0 +1,1 @@
+ALTER TABLE `phppos_items_serial_numbers` ADD `qty` VARCHAR(100) NULL AFTER `cost_price`, ADD `date` TIMESTAMP NULL AFTER `qty`; 

@@ -1,0 +1,27 @@
+17.4 Release!
+
+Whats new:
+* Added ability for categories, items, and item kits to show a message during sale when item added
+* Added Mix & Match to Advanced Discount
+* Can filter items summary report by manufacturer
+* Can now sync inventory from multiple locations for woo commerce integration (One website; pull from multiple locations)
+* Can now make items and item kits inactive
+* Added receiving category summary report
+* Added edit customer web hook
+* Added skip_webhook parameter to sales + receivings API
+* Can now filter by multiple locations in the transfers report
+* Can now view location in detailed payments report
+* Now update delivery status for a woo commerce order to shipped once completed in WooCommerce
+* Added permission to view inventory at all locations for items
+* Added item id to detailed count report
+* Added store config option "Show Tax Details On Receipt"
+* Can now choose delivery employee during sale checkout
+* Added item id to detailed sales report
+* Now have option to show selling price on receiving receipt
+* Added border around total to stand out more on receipt
+* Commission now provided when sale price is 0
+* Added the ability to summary category report to show top level categories only
+* Can now edit description on receiving for items that have allow alternate description
+* Now allow more than 2 decimals for price rules advanced discount price break
+* Cloud e-mails outbound is ALWAYS no-reply@mg.phppointofsale.com with a reply to of what is configured
+* Minor bug fixes

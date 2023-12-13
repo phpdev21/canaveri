@@ -1,0 +1,103 @@
+<?php
+$lang['state_reporting_report_options'] = 'Report Options';
+$lang['state_reporting_inventory_addition_subtraction'] = 'Detailed Inventory Additions and Subtractions';
+$lang['state_reporting_purchase_report_grower'] = 'Purchase Report - Grower';
+$lang['state_reporting_purchase_report_processor'] = 'Purchase Report - Processor';
+$lang['state_reporting_inventory_report'] = 'Inventory Report';
+$lang['state_reporting_items_sold_report'] = 'Daily Sales Report';
+$lang['state_reporting_detailed_inventory_report'] = 'Detailed Inventory Report';
+$lang['state_reporting_detailed_inventory_additions_subtractions'] = 'Detailed Inventory Additions and Subtractions';
+$lang['reports_state_reporting'] = 'State Reporting';
+$lang['supplier'] = 'Supplier'; 
+$lang['category'] = 'Category'; 
+$lang['report_weight'] = 'Weight (lbs)';
+$lang['report_item'] = 'Item';
+$lang['det_report_weight'] = 'Weight';
+$lang['report_by'] = 'Report By';
+$lang['unit_of_measure'] = 'UOM';
+$lang['det_report_by'] = 'Report By';
+$lang['det_rep_stock_weight'] = 'Stock (wgt)';
+$lang['det_rep_sales_weight'] = 'Sales (wgt)';
+$lang['det_rep_purchase_weight'] = 'Purchase (wgt)';
+$lang['det_rep_total_weight'] = 'Total (wgt)';
+$lang['det_rep_stock_quantity'] = 'Stock (Qty)';
+$lang['det_rep_sales_quantity'] = 'Sales (Qty)';
+$lang['det_rep_purchase_quantity'] = 'Purchase (Qty)';
+$lang['det_rep_total_quantity'] = 'Total (Qty)';
+
+$lang['report_count'] = 'Count';
+$lang['report_mmj_weight'] = 'MMJ Weight';
+$lang['receiving_time'] = 'Date Rcvd';
+$lang['receiving_order'] = 'PO#';
+$lang['reports_date_range'] = 'Date Range';
+$lang['reports_from'] = 'From';
+$lang['reports_to'] = 'To';
+$lang['breadcrumb_purchase_report_grower'] = 'Purchase Report - Grower';
+$lang['breadcrumb_purchase_report_processor'] = 'Purchase Report - Processor';
+$lang['breadcrumb_items_sold_report'] = 'Daily Sales Report';
+$lang['breadcrumb_inventory_report'] = 'Inventory Report';
+$lang['breadcrumb_inventory_addition_subtraction'] = 'Detailed Inventory Additions and Subtractions';
+$lang['breadcrumb_detailed_inventory_report'] = 'Detailed Inventory Report';
+$lang['breadcrumb_detailed_item_sold_report'] = 'Detailed Item Sold Report';
+
+$lang['inv_add_sub_product'] = 'Product';
+$lang['inv_add_sub_date'] = 'Date'; 
+$lang['inv_add_sub_report_by'] = 'Report By';
+$lang['inv_add_sub_safe_grams'] = 'Safe (g)';
+$lang['inv_add_sub_floor_grams'] = 'Floor (g)';
+$lang['inv_add_sub_safe_weight_lbs'] = 'Safe (lbs)';
+$lang['inv_add_sub_floor_weight_lbs'] = 'Floor (lbs)';
+$lang['inv_add_sub_trans_type'] = 'Type';
+$lang['inv_add_sub_mmj_weight'] = 'MMJ Weight';
+$lang['report_safe_weight'] = 'Safe (Weight)';
+$lang['report_floor_weight'] = 'Floor (Weight)';
+$lang['report_safe_quantity'] = 'Safe (Quantity)';
+$lang['report_floor_quantity'] = 'Floor (Quantity)';
+
+$lang['det_sold_date'] = 'Date';
+$lang['det_sold_invoice'] = 'Invoice #';
+$lang['det_sold_item'] = 'Item';
+$lang['det_sold_report_by'] = 'Report By';
+$lang['det_sold_sales_weight'] = 'Sales (Weight)';
+$lang['det_sold_sales_quantity'] = 'Sales (Quantity)';
+$lang['det_sold_mmj_weight'] = 'MMJ Weight';
+
+$lang['state_reporting_item_sold_report'] = 'Daily Sales Report';
+$lang['state_reporting_purchase_report_processor'] = 'Purchase Report - Processor';
+$lang['state_reporting_purchase_report_grower'] = 'Purchase Report - Grower';
+$lang['state_reporting_inventory_additions_and_subtractions'] = 'Detailed Inventory Additions and Subtractions';
+$lang['state_reporting_inventory_report'] = 'Inventory Report';
+
+$lang['state_reporting_item_sold_quantity'] = 'Sold Quantity';
+$lang['state_reporting_total_sales_amount'] = 'Total Sales Amount';
+$lang['state_reporting_total_patients'] = '# of patients that purchased';
+$lang['state_reporting_total_caregivers'] = '# of caregivers that purchased';
+$lang['state_reporting_total_minor_patient'] = '# of minor patient that purchased';
+$lang['state_reporting_total_recreational'] = '# of recreational that purchased';
+$lang['state_reporting_tax'] = 'Tax';
+
+$lang['sales_date_time'] = 'Sales Date & Time';
+$lang['customer_type'] = 'Customer type';
+$lang['patient_license'] = 'Patient License';
+$lang['caregiver'] = 'Caregiver';
+$lang['ID_method'] = 'ID Method';
+$lang['package_label'] = 'Package Label';
+$lang['sale_quantity'] = 'Quantity';
+$lang['umo'] = 'UMO';
+$lang['unit_thc_percent'] = 'Unit THC %';
+$lang['unit_thc_content'] = 'Unit THC Content';
+$lang['unit_thc_content_of_measure'] = 'Unit THC Content of Measure';
+$lang['unit_weight'] = 'Unit Weight';
+$lang['unit_weigh_of_measure'] = 'Unit weigh of Measure';
+$lang['total_amount'] = 'Total amount';
+$lang['sale_invoice'] = 'Invoice #';
+$lang['sale_price'] = 'Sales Price';
+$lang['excise_tax'] = 'Excise Tax';
+$lang['city_tax'] = 'City Tax';
+$lang['county_tax'] = 'County Tax';
+$lang['municipal_tax'] = 'Municipal Tax';
+$lang['discount_amount'] = 'Discount Amount';
+$lang['sub_total'] = 'Sub Total';
+$lang['sales_tax'] = 'Sales Tax';
+
+?>
